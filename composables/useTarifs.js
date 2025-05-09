@@ -10,7 +10,7 @@ export const useTarifs = () => {
           'скидка 10% с промокодом: TATO'
         ],
         price: '3000',
-        link: 'https://t.me/lleeeuuuuanchik'
+        link: 'https://wa.me/79627485550'
       },
       {
         title: 'Отдельная машина',
@@ -22,7 +22,7 @@ export const useTarifs = () => {
           'скидка 10% с промокодом: TATO'
         ],
         price: '10000',
-        link: 'https://t.me/lleeeuuuuanchik'
+        link: 'https://wa.me/79627485550'
       },
       {
         title: 'Аренда минивэна',
@@ -34,7 +34,7 @@ export const useTarifs = () => {
           'скидка 10% с промокодом: TATO'
         ],
         price: '15000',
-        link: 'https://t.me/lleeeuuuuanchik'
+        link: 'https://wa.me/79627485550'
       }
     ])
   
